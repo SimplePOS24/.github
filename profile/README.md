@@ -4,8 +4,8 @@
 
 A modern, full-stack Point of Sale (POS) system built with Next.js and Spring Boot. SimplePOS24 provides an intuitive interface for managing products and processing transactions.
 
-![SimplePOS24 Main Interface](public/image-0.png)
-![SimplePOS24 Main Interface](public/image-2.png)
+![SimplePOS24 Main Interface](../public/image-0.png)
+![SimplePOS24 Main Interface](../public/image-2.png)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A modern, full-stack Point of Sale (POS) system built with Next.js and Spring Bo
 - **Real-time Pricing**: Dynamic pricing with discount support
 - **Inventory Tracking**: Monitor product availability and stock levels
 
-![Product Selection - Bakery Items](public/image-1.png)
+![Product Selection - Bakery Items](../public/image-1.png)
 
 ### 💰 Transaction Processing
 - **Multi-item Transactions**: Add multiple products to a single transaction
